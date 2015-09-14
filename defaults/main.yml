@@ -1,3 +1,6 @@
 ---
-# defaults file for ferhaty.jenkins-slave
+# defaults file for ansible-jenkins-slave
 #
+proxy_env:
+  zhttp_proxy: dummy
+  zhttps_proxy: dummy
